@@ -8,7 +8,6 @@
 </h1>
 
 ## 🚀 Quick start
-coming back
 
 1.  **Create a Gatsby site.**
 
