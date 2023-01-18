@@ -13,7 +13,8 @@ module.exports = {
       }
     },
     "gatsby-plugin-mdx",
-    `gatsby-plugin-playground`
+    `gatsby-plugin-playground`,
+    "gatsby-transformer-sharp",
     
   ],
 }
